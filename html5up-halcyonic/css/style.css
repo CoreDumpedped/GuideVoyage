@@ -241,3 +241,8 @@
 		background-image: -o-linear-gradient(top, #ce1a00, #ed391b);
 		background-image: linear-gradient(top, #ce1a00, #ed391b);
 	}
+	
+	.imgIncontournables {
+		max-width: 100%;
+		height: auto;
+	}
