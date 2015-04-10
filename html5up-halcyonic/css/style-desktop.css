@@ -50,7 +50,7 @@ background-size: cover;
 	
 	#content-wrapper
 	{
-		background: #f7f7f7 url('images/bg04.png');
+		background: #f7f7f7 url('images/fond2.jpg');
 		border-top: solid 1px #fff;
 		padding: 45px 0 45px 0;
 	}
@@ -93,7 +93,7 @@ background-size: cover;
 	
 			#header nav a
 			{
-				color: #c6c8c8;
+				color: #330000;
 				text-decoration: none;
 				font-size: 1.4em;
 				margin-left: 60px;
